@@ -1,3 +1,4 @@
 public/images/Crimson[[:space:]]Bloom.tif filter=lfs diff=lfs merge=lfs -text
 public/images/Sunset[[:space:]]Dunes.jpg filter=lfs diff=lfs merge=lfs -text
 public/images/PPP-266.tif filter=lfs diff=lfs merge=lfs -text
+public/images/TEJ_0091.jpg filter=lfs diff=lfs merge=lfs -text
